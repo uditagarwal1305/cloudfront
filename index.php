@@ -1,5 +1,5 @@
 <html>
-<body style="background-color:grey;">
+<body background= "grey">
   <center><h1>This page is created by Udit Agarwal</h1></center>
   <center><h3>Welcome to my cloud page</h3></center>
   <p>This my task to integrate Terraform with AWS</p>
