@@ -6,7 +6,7 @@
   <br>
   <p> This below picture indicate our new startup regarding Covid-19.</p>
 <?php
-  $cloudfront_url = `head -n1 myimg.txt`;
+  $cloudfront_url = `head -n1 awsefs.txt`;
   $img_path = "https://".$cloudfront_url."/awsefs.jpg";
   echo "<br>";
   echo "<img src='${img_path}' />";
